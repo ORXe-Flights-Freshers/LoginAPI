@@ -1,0 +1,3 @@
+C:\Users\mgandhe\source\repos\LoginAPI\obj\Debug\netcoreapp2.2\LoginAPI.csproj.CoreCompileInputs.cache
+C:\Users\mgandhe\source\repos\LoginAPI\obj\Debug\netcoreapp2.2\LoginAPI.AssemblyInfoInputs.cache
+C:\Users\mgandhe\source\repos\LoginAPI\obj\Debug\netcoreapp2.2\LoginAPI.AssemblyInfo.cs
